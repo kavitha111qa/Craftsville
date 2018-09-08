@@ -1,0 +1,11 @@
+username=Kavitha111qa@gmail.com
+password=Finland-2018
+url=https://www.craftsvilla.com/
+chromedriver = webdriver.chrome.driver
+path =C:\\Users\\kavitha\\eclipse-workspace\\FreeCrmTest\\Drivers\\chromedriver_win32\\chromedriver.exe
+
+browserchrome = chrome
+browserfirefox = firefox
+Firstname=kavitha
+Lastname=Mani
+filepath =C:\\Users\\kavitha\\eclipse-workspace\\Craftsvilla\\InputData\\Credentials.xlsx
